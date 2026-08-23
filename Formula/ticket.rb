@@ -3,6 +3,7 @@ class Ticket < Formula
   homepage "https://github.com/TylerAngelier/ticket"
   url "file:///tmp/ticket-src.tar.gz"
   sha256 "15e0a84940d2f92cdda228d8b46b5c90aad12ed0b2c3fbdd18d18c97d309ba60"
+  version "0.5.0"
   license "MIT"
 
   depends_on "go" => :build
